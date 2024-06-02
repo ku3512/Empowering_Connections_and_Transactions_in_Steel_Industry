@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Project Description
+`
+• Streamlined Marketplace Management: Led the management of Perfect Dalal, enhancing the buying, selling,
+and bidding processes for steel industry stakeholders.
+• Enhanced Connectivity and Efficiency: Improved transaction speed and efficiency by facilitating seamless
+interactions between steel suppliers and buyers on Perfect Dalal.
+• Industry Innovation and Empowerment: Developed a user-friendly platform that simplifies steel market
+complexities, empowering professionals with confidence and ease of navigation.
+`
